@@ -14,7 +14,7 @@
     "@emotion/styled": "^11.14.0",
     "@fontsource/lora": "^5.2.5",
     "@mui/icons-material": "^7.0.2",
-    "@mui/material": "^7.0.2",
+    "@mui/material": "^6.4.11",
     "axios": "^1.8.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
